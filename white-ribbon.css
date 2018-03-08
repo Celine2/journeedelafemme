@@ -1,0 +1,12 @@
+#white-ribbon {
+	z-index: 10000;
+    position: fixed;
+    top: 40px;
+    right: 40px;
+
+ } 
+
+ #white-ribbon img{
+ 	height : 100px;
+ 	width : 98px;
+ }
