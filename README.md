@@ -13,10 +13,10 @@ Copier le code dans la page web où vous souhaitez voir le ruban apparaître.
 * dans la section <head> : 
 
 
-'  <link rel="stylesheet" type="text/css" href="white-ribbon.css">    '
+  /<link rel="stylesheet" type="text/css" href="white-ribbon.css">    '
 
 
 * dans la section <body>:
 
-'  <div id="white-ribbon"><a href="http://8mars.info/"><img src="white-ribbon.svg"  alt="ruban pour la journée internationale de la femme"></a></div>    '
+  /<div id="white-ribbon"><a href="http://8mars.info/"><img src="white-ribbon.svg"  alt="ruban pour la journée internationale de la femme"></a></div>    '
 
